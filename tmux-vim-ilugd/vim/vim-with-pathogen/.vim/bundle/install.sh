@@ -13,3 +13,13 @@ git clone git://github.com/tpope/vim-sensible.git
 # See more at : https://github.com/tpope/vim-surround
 git clone git://github.com/tpope/vim-surround.git
 
+
+#################
+# nerd tree
+#################
+git clone https://github.com/scrooloose/nerdtree
+
+#################
+# youcompleteme 
+#################
+git clone https://github.com/valloric/youcompleteme

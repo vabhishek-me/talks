@@ -134,3 +134,9 @@ highlight VertSplit ctermbg=235 ctermfg=240
 highlight TabLine ctermbg=235 ctermfg=242
 highlight TabLineFill ctermbg=235 ctermfg=242
 highlight TabLineSel ctermbg=235 ctermfg=250
+
+" ###########
+" PLUGINS
+" ##########
+autocmd vimenter * NERDTree
+nnoremap <leader>nt :NERDTreeToggle<CR>
