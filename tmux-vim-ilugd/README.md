@@ -28,6 +28,21 @@ sudo apt install vim;
 brew install vim —with-override-system-vi
 ```
 
+### Pathogen Package Manager
+Install to ~/.vim/autoload/pathogen.vim. Or copy and paste the following into your terminal/shell:
+
+```bash
+mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+```
+
+Now any plugins you wish to install can be extracted to a subdirectory under ~/.vim/bundle, and they will be added to the 'runtimepath'. Observe:
+
+```bash
+cd ~/.vim/bundle && \
+git clone https://github.com/tpope/vim-sensible.git
+```
+
 ### Resources
 
  - `$ vimtutor`
