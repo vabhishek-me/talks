@@ -1,5 +1,14 @@
 # Getting started with tmux and vim
 
+```
+ ___ _    _   _  ____ ____  
+|_ _| |  | | | |/ ___|  _ \ 
+ | || |  | | | | |  _| | | |
+ | || |__| |_| | |_| | |_| |
+|___|_____\___/ \____|____/ 
+                            
+```
+
 ## VIM
 
 ### Installation
@@ -7,10 +16,16 @@
 Link : https://vi.stackexchange.com/questions/10817/how-can-i-get-a-newer-version-of-vim-on-ubuntu
 
 **Ubuntu:**
+
 ```bash
 sudo add-apt-repository ppa:jonathonf/vim;
 sudo apt update;
 sudo apt install vim;
+```
+
+**Mac: (using homebrew)**
+```bash
+brew install vim —with-override-system-vi
 ```
 
 ### Resources
