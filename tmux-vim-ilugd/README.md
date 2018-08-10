@@ -13,3 +13,8 @@ sudo apt update;
 sudo apt install vim;
 ```
 
+### Resources
+
+ - `$ vimtutor`
+ - [Vim Meetups by thoughbot - youtube](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
+ - [Practical Vim - Drew Neil](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
