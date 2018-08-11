@@ -67,3 +67,8 @@ sudo apt install tmux;
 ```bash
 brew install tmux;
 ```
+
+## tmate
+
+ - Used for pair programming
+ - Link: https://tmate.io/
